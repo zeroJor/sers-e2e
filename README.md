@@ -1,4 +1,5 @@
-# Sers — Manual end-to-end tests
+# Sers — Manual end-to-end tests (hola desde aqui)
+
 
 Manual test packs for QA. Each folder is **one full flow** across the **user mobile app**, **provider mobile app**, and **Sers server web panel** (Laravel admin), plus API/backend behavior where it matters for validation.
 
